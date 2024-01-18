@@ -39,8 +39,8 @@ Enter a piece of text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 0. Quit...
 Enter your choice [0-3]: 1
 Enter the text you want to search: ipsum
-No location
------------
+No  location
+--- --------
 1    7
 
 ...
